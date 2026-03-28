@@ -1,0 +1,45 @@
+esmile:
+  role: Mobile Development Instructor
+  time: 2010/11/01 ~ 2011/09/28
+  company: <span translate="no"> ESmile </span>
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/esmile/
+  company_url: https://www.esmile-hd.com/
+  details: >-
+  
+   <div class="upper-row">
+        <p class="game-title">Mobile Programming Instructor</p>
+        <div class="game-platform">Platforms: Mobile - iPhone, Android</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">iPhone and Android Programming Course</div>
+        <div class="game-teamsize">Class Size: 30 students</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">Objective-C, Java, C#, Unity, Powerpoint</span>
+   </p>
+
+   <p><i><u>Mobile Programming Instructor</u></i></p>
+   <p>
+       Instructed new recruits at the company in mobile programming:
+       <span class="bullet-point"> Prepared lessons, teaching materials and presentations</span>
+       <span class="bullet-point"> Taught iOS programming in the Objective-C language. </span>
+       <span class="bullet-point"> Taught Android programming in the Java language. </span>
+   </p>
+
+   <p><i><u>Mobile Game Development Instructor</u></i></p>
+   <p>
+       Instructed coworkers in Unity mobile game development:
+       <span class="bullet-point"> Prepared lessons and teaching materials</span>
+       <span class="bullet-point"> Taught C# programming</span>
+       <span class="bullet-point"> Taught fundamental Unity development skills. </span>
+       <span class="bullet-point"> Prepared a sample game development project for students (golf game). </span>
+       <span class="bullet-point"> Taught physics usage for simulating golf ball movement. </span>
+       <span class="bullet-point"> Instructed on usage of Maya plugins/exporters for game assets. </span>
+   </p>
+
+   
+   

@@ -1,0 +1,43 @@
+mightygames:
+  role: Unity Developer, Lead Technical Artist
+  time: 2016/11 ~ 2017/7
+  company: <span translate="no"> Mighty Games </span> (Full-time)
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/mightygames/
+  company_url:
+  details: >-
+  
+   <div class="upper-row">
+         <p class="game-title">Project: <span translate="no"> Final Fantasy Grandmasters </span> </p>
+        <div class="game-platform">Platforms: Mobile (iPhone, Android)</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">A Final Fantasy series rpg game</div>
+        <div class="game-teamsize">Team Size: 20 members</div>
+   </div><!--//upper-row-->
+
+   <p>** Note: Project and staff were transferred to Mighty Games from the previous company Crooz. **</p>
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">Python, Maya, Objective-C++, C#, Unity 5</span>
+   </p>
+
+   <p><i><u>Art Pipeline Tools Development</u></i></p>
+   <div> Maya </div>
+   <p>
+       <span class="bullet-point"> Maintenance and support of all Maya tools I developed while at the previous company Crooz</span>
+   </p>
+   
+   <p><i><u>Unity Development</u></i></p>
+   <div>Project Tools</div>
+   <p>
+       <span class="bullet-point"> Maintenance and support of all Unity tools I developed while at the previous company Crooz</span>
+   </p>
+
+   <div>Post Effect Development</div>
+   <p>
+        <span class="bullet-point"> Post Effects - Created post lighting and glow effects to improve the game's visual appeal</span>
+   </p>
+   

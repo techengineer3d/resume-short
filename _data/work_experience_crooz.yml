@@ -1,0 +1,55 @@
+crooz:
+  role: Unity Developer, Lead Technical Artist
+  time: 2014/01 ~ 2016/10
+  company: <span translate="no"> Crooz </span> (Full-time)
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/crooz/
+  details: >-
+  
+   <div class="upper-row">
+        <p class="game-title">Project: <span translate="no"> Final Fantasy Grandmasters </span> </p>
+        <div class="game-platform">Platforms: Mobile (iPhone, Android)</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">A Final Fantasy series rpg game</div>
+        <div class="game-teamsize">Team Size: 20 members</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-tech"><br/></div>
+        <div class="game-tech-list">Tech: Python, Maya, C++, C#, FBX SDK, Unity 5, NGUI </div>
+   </div><!--//upper-row-->
+
+   <h5>Summary</h5>
+   <p> 
+   In charge of tools and graphics development. Lead initiative to improve art and game asset pipeline workflows.<br/> 
+   Researched and developed new technology and overcame complex technical hurdles by implementing creative workarounds.<br/>
+   </p>
+
+   <p><i><u>heading</u></i></p>
+   <span class="bullet-point"> 
+   work contents 
+   </span>
+
+   <p><i><u>Main Contributions</u></i></p>
+   <span class="bullet-point">
+   Worked directly with the Art Director to research and develop new technology for new and existing game titles, and to identify and resolve production bottlenecks.
+   </span>
+
+   <span class="bullet-point">
+   Overcame technical limitations and developed novel solution to achieve runtime particle scaling in Unity without the use of private or undocumented Unity API.
+   </span>
+
+   <span class="bullet-point">
+   Helped to spearhead the launch of a new Final Fantasy game title by developing a custom material animation system for Unity and Maya, which helped my team to gain a strategic partnership with Square Enix. 
+   </span>
+
+   <span class="bullet-point">
+   Saved the art team hundreds of hours in production time, reducing workloads and costs by developing a suite of automated Unity Editor tools for easy bulk asset validation, import, setup and management, and look-dev tools for QA checks.
+   </span>
+   
+   <p><i><b><u>Work Award</u></b></i></p>
+   <p>
+   Received an MVP award from the company President on October 9th 2015 in recognition for my above contributions to the company.
+   </p>

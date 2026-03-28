@@ -1,0 +1,7 @@
+languages:
+    title: 'Languages'
+    spoken-languages:
+        - idiom: English
+          level: Native
+        - idiom: Japanese
+          level: Daily Conversation

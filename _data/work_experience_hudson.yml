@@ -1,0 +1,62 @@
+hudson:
+  role: Game Programmer
+  time: 2002/08/01 ~ 2005/06/28
+  company: <span translate="no"> Hudson Soft </span> (Full-time)
+  location: 'Sapporo, Japan'
+  link: https://social-drum.cloudvent.net/clients/hudson/
+  company_url:
+  details: >-
+  
+   <div class="upper-row">
+         <p class="game-title">Project: <span translate="no"> Master of Epic - The Resonance Age Universe </span></p>
+        <div class="game-platform">Platforms: Windows</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Massively Multiplayer Online RPG game</div>
+        <div class="game-teamsize">Team Size: 30 members</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point"> C++, MFC, Visual Studio, DirectX 8/9, 3D Studio Max 4/5</span>
+   </p>
+
+   <p><i><u>Art Tools Programming</u></i></p>
+   <p>
+       <span class="bullet-point"> 3D Studio Max 4/5 plugin and tools development</span>
+       <span class="bullet-point"> Created character preview tools for look-dev</span>
+   </p>
+
+   <p><i><u>Graphics Programming</u></i></p>
+   <p>
+       <span class="bullet-point"> Worked on DirectX 8 fixed function shader programming</span>
+       <span class="bullet-point"> Upgraded the graphics engine to DirectX 9</span>
+       <span class="bullet-point"> Reprogrammed all shaders with shader assembler code</span>
+       <span class="bullet-point"> Upgraded the shader system and all assembler shaders to Nvidia Cg</span>
+       <span class="bullet-point"> Research and development of 3D graphics effects</span>
+   </p>
+
+   <p><i><u>Shader Programming</u></i></p>
+   <p>
+       <span class="bullet-point"> GPU Skinning for character animation</span>
+       <span class="bullet-point"> Created Diffuse and specular lighting shaders</span>
+       <span class="bullet-point"> Added support for dynamic lighting (1 directional light, 4 point lights)</span>
+   </p>
+
+   <p><i><u>Character Animation Programming</u></i></p>
+   <p>
+       <span class="bullet-point"> Performed updates to character animation system</span>
+       <span class="bullet-point"> Implemented morph animation for character facial animation</span>
+   </p>
+
+   <p><i><u>Character Equipment System</u></i></p>
+   <p>
+       <span class="bullet-point"> Maintained and updated the character equipment database</span>
+       <span class="bullet-point"> Updated the character equipment system to include support for new equipment assets</span>
+   </p>
+
+
+
+
+   

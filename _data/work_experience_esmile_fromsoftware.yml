@@ -1,0 +1,35 @@
+fromsoftware:
+  role: Tools Programmer
+  time: 2007/10/01 ~ 2008/02/28
+  company: <span translate="no"> FromSoftware </span> (Contract)
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/hitmaker/
+  company_url: 
+  details: >-
+   
+   <div class="upper-row">
+         <p class="game-title">Project: <span translate="no"> Demon's Souls </span> </p>
+        <div class="game-platform">Platforms: Playstation 3</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Dark fantasy action role playing game</div>
+        <div class="game-teamsize">Team Size: 60</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">C++, MFC, AlienBrain, 3D Studio Max 2008</span>
+   </p>
+
+   <p><i><u>Tool Development</u></i></p>
+   <p>
+       <span class="bullet-point"> Created plugins for the AlienBrain version control system to handle custom game assets</span>
+   </p>
+
+   <p><i><u>Art Pipeline Consultant</u></i></p>
+   <p>
+       <span class="bullet-point"> Identified bottlenecks in art pipeline</span>
+       <span class="bullet-point"> Proposed changes for improvements to current pipeline</span>
+       <span class="bullet-point"> Research of middleware tools and recommendations for use on project</span>
+   </p>

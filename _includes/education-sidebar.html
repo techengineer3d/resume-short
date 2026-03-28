@@ -1,0 +1,47 @@
+{% assign education = site.data.education_data.education %}
+{% assign sidebar = site.data.sidebar_data.sidebar %}
+
+{% if education %}
+
+  {% if sidebar.enable_education %}
+  <div class="education-container container-block">
+
+    <h2 class="container-block-title">
+      Education
+    </h2>
+    
+    <!--
+
+    {% for graduation in education %}
+    <div class="item">
+        
+        <div>
+          {{ graduation.university }}
+          <span class="location">({{ graduation.location }})</span>
+        </div>
+      
+      <h5 class="degree">{{ graduation.degree }}</h5>
+      <div class="time">{{ graduation.time }}</div>
+        
+    </div><!--//item--
+    
+    -->
+    
+    <ul class="list-unstyled education-list">
+        {%for graduation in education %}
+        <li>
+          {{ graduation.university }}
+          <span class="grad-loc">({{ graduation.location }})</span>
+        </li>
+        <h5 class="degree">{{ graduation.degree }}</h5>
+        <div class="time">{{ graduation.time }}</div>
+        {% endfor %}
+    </ul>
+    
+    
+    {% endfor %}
+
+  </div><!--//education-container-->
+  {% endif %}
+  
+{% endif %}

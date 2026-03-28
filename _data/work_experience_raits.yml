@@ -1,0 +1,33 @@
+raits:
+  role: Game Programmer
+  time: 2001/01/01 ~ 2001/11/28
+  company: <span translate="no"> RAITS </span> (Full-time)
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/raits/
+  company_url:
+  details: >-
+  
+   <div class="upper-row">
+         <p class="game-title">Project: <span translate="no"> Style Labratory </span> </p>
+        <div class="game-platform">Platforms: XBox</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">A clothing / fashion simulation game</div>
+        <div class="game-teamsize">Team Size: 5 members </div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">C++, Visual Studio</span>
+   </p>
+
+   <p><i><u>Cloth Animation Work</u></i></p>
+   <p>
+       <span class="bullet-point"> Research and development of 3D cloth animation methods</span>
+   </p>
+   
+
+
+
+   

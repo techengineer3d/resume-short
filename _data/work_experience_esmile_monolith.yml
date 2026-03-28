@@ -1,0 +1,38 @@
+monolith:
+  role: Game Programmer
+  time: 2006/02/01 ~ 2007/01/28
+  company: <span translate="no"> Monolith Software </span> (Contract)
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/monolith/
+  company_url: 
+  details: >-
+   
+   <div class="upper-row">
+         <p class="game-title">Project: <span translate="no"> Disaster - Day of Crisis </span> </p>
+        <div class="game-platform">Platforms: Nintendo Wii</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Calamity themed action game</div>
+        <div class="game-teamsize">Team Size: 60 members</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">C++, Visual Studio, Havok Physics</span>
+   </p>
+
+   <p><i><u>Car Physics Programming</u></i></p>
+   <p>
+       <span class="bullet-point"> Implemented Havok Physics for in-game vehicles and fine-tuned car physics behavior</span>
+   </p>
+
+   <p><i><u>Game Engine Updates</u></i></p>
+   <p> 
+       <span class="bullet-point"> Performed general updates and maintenance of game engine</span>
+       <span class="bullet-point"> Implemented Nintendo guidelines for UI and Wiimote usage</span>
+       <span class="bullet-point"> Added support for async data loading from disc</span>
+   </p>
+
+
+   

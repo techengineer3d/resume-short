@@ -1,0 +1,18 @@
+{% assign work-style = site.data.career_data.career-work-style %}
+
+{% if work-style %}
+<section class="section summary-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-briefcase fa-stack-2x"></i>
+    </span>
+    {{ work-style.title }}
+  </h2>
+
+  <div class="summary">
+    {{ work-style.summary | markdownify }}
+  </div><!--//summary-->
+    
+</section><!--//section-->
+{% endif %}

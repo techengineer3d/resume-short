@@ -1,0 +1,30 @@
+infinity:
+  role: Game Programmer
+  time: 2005/06/01 ~ 2005/12/28
+  company: <span translate="no"> Infinity </span> (Contract)
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/infinity/
+  company_url: http://www.infinity-soft.co.jp
+  details: >-
+  
+   <div class="upper-row">
+         <p class="game-title">Project: <span translate="no"> Fish Eyes </span> </p>
+        <div class="game-platform">Platforms: Playstation Portable</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Fishing simulation game</div>
+        <div class="game-teamsize">Team Size: 3 members</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">C++, PSP Dev Tool</span>
+   </p>
+
+   <p><i><u>Platform Porting Work</u></i></p>
+   <p>
+       <span class="bullet-point"> Ported graphics related assets and source code from Playstion 2 to the PSP</span>
+   </p>
+
+   

@@ -1,0 +1,29 @@
+climax:
+  role: Game Programmer
+  time: 2007/02/01 ~ 2007/09/28
+  company: <span translate="no"> Climax </span> (Contract)
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/hitmaker/
+  company_url: 
+  details: >-
+  
+   <div class="upper-row">
+         <p class="game-title">Project: <span translate="no"> Steal Princess </span> </p>
+        <div class="game-platform">Platforms: Nintendo DS</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Action role playing game</div>
+        <div class="game-teamsize">Team Size: 5 members</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">C++, DS Dev Kit</span>
+   </p>
+
+   <p><i><u>Framework Development</u></i></p>
+   <p>
+       <span class="bullet-point"> Built a framework for managing 2D and 3D scene graphics and memory</span>
+   </p>
+   

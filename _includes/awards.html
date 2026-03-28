@@ -1,0 +1,50 @@
+{% assign awards = site.data.awards_data.awards %}
+{% assign mainpage = site.data.mainpage_data.mainpage %}
+
+{% if awards %}
+
+  {% if mainpage.enable_awards %}
+  <section class="section awards-section">
+    <h2 class="section-title">
+      <!--
+      <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-award fa-stack-1x fa-inverse"></i>
+      </span>
+    -->
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-award fa-stack-2x"></i>
+    </span>
+      Work Awards
+    </h2>
+
+    {% for achievement in awards %}
+    <div class="item">
+
+      <div class="meta">
+
+        <div class="upper-row">
+          <h3 class="degree">{{ achievement.award }}</h3>
+          <div class="time">{{ achievement.time }}</div>
+        </div><!--//upper-row-->
+
+        <div class="upper-row">
+          <div class="university">{{ achievement.company }}</div>
+          <div class="location">{{ achievement.location }}</div>
+        </div><!--//upper-row-->
+        
+      </div><!--//meta-->
+
+      {% if achievement.details %}
+      <div class="details">
+        {{ achievement.details | markdownify }}
+      </div><!--//details-->
+      {% endif %}
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </section><!--//section-->
+  {% endif %}
+  
+{% endif %}

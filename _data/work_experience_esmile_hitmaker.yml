@@ -1,0 +1,39 @@
+hitmaker:
+  role: Graphics Programmer
+  time: 2008/04/01 ~ 2009/06/28
+  company: <span translate="no"> Hitmaker </span> (Contract)
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/hitmaker/
+  company_url: 
+  details: >-
+   
+   <div class="upper-row">
+         <p class="game-title">Project: <span translate="no"> Last Rebellion </span> </p>
+        <div class="game-platform">Platforms: Playstation 3</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Fantasy action role playing game</div>
+        <div class="game-teamsize">Team Size: 6 members </div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">C++, PS3 Dev Kit, GCM Graphics API</span>
+   </p>
+
+   <p><i><u>Graphics Programming Work</u></i></p>
+   <p>
+       <span class="bullet-point"> Ugraded the game's rendering system to support advanced shading and rendering</span>
+   </p>
+
+   <p><i><u>Shader Development</u></i></p>
+   <p>
+       <span class="bullet-point"> Blinn/phong lighting, Toon Shading, GPU Skinning for character animation</span>
+   </p>
+
+   <p><i><u>Post Effect Development</u></i></p>
+   <p>
+       <span class="bullet-point"> Character outline effect</span>
+       <span class="bullet-point"> Paint style rendering effect</span>
+   </p>

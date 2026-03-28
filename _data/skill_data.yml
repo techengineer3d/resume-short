@@ -1,0 +1,50 @@
+skills: 
+  title: "Technical Skills"
+  skillsets:
+    - GameEngines: 
+      title: "Game Engines"
+      desc: >-
+       <span>Unity (4 , 5 , 2017)</span><br/> 
+       <span>Unreal Engine (4 , 5)</span><br/>
+      level: 0
+    - Platforms: 
+      title: "Development Platforms"
+      desc: >-
+       <span>Desktop: Windows, Mac</span><br/>
+       <span>Mobile: iPhone, Android</span><br/>
+       <span>Game Console: Playstation (PS3, PS4, PSP), Nintendo (Wii, DS), Microsoft XBox</span><br/>
+      level: 0
+    - Programming: 
+      title: "Programming"
+      desc: "C/C++ (12 years), C# (5 years), Objective-C/C++ (7 years), Java (7 years), Python (7 years), YAML (2 years)"
+      level: 0
+    - API: 
+      title: "Graphics Programming"
+      desc: >-
+        <span>API: Microsoft DirectX (8,9), OpenGL, GLES</span><br/>
+        <span>Shaders: Cg, CgFX, HLSL, Unity Shaders, Unreal Material Shaders</span><br/>
+      level: 0
+    - ArtTools: 
+      title: "Art Tools Programming"
+      desc: "Maya (2015 to 2023), Photoshop CC (2014 to 2017), Studio Max (4, 5, 2008)"
+      level: 0
+    - Web Programming: 
+      title: "Web Programming"
+      desc: >-
+        <span>HTML, CSS, Javascript, PHP, Flask (1 year)</span><br/>
+      level: 0
+    - Database: 
+      title: "Database Programming"
+      desc: "SQL, Postgresql Server, SQLAlchemy (1 year)"
+      level: 0
+    - Cloud:
+      title: "Cloud Platforms"
+      desc: "AWS (1 year)"
+      level: 0
+    - VersionControl: 
+      title: "Version Control"
+      desc: "Perforce, Github, Git"
+      level: 0
+    
+    
+    

@@ -1,0 +1,50 @@
+career-profile:
+  title: Career Profile
+  summary: >-
+    <p>Over 15 years of experience working in the software and game development industry on PC, console and mobile game titles and applications.</p>
+    <p>Worked in various positions, such as engineer, graphics programmer, tools programmer and technical artist.</p> 
+    <p>Experienced in programming tools, 3D graphics and shaders for Unreal Engine, Unity and custom in-house engines.</p> 
+    <p>Adept in development of art tools and improvement of art pipeline workflows.</p>  
+    <p>Proficient in profiling, analysis, optimization and performance tuning of games and applications.</p>
+    <p>Highly successful in solving complex technical issues.</p> 
+    
+career-objective:
+  title: Career Objective
+  summary: >-
+    <p>I want to work for a successful software development company with a positive, creative environment and an international atmosphere.</p>
+    <p>I am strongly interested in obtaining a permanent senior or mid-level technical position.</p>
+    <p>I wish to contribute my knowledge and skills to efficiently make engaging, high quality software application experiences.</p>
+
+career-relocation:
+  title: Career Relocation
+  summary: >-
+    <p>I am open to relocating to international locations for my career.</p>
+
+career-work-style:
+  title: Work Styles
+  summary: >-
+    <ul>
+      <ui>■ On-Site</ui><br/>
+      <ui>■ Hybrid</ui><br/>
+      <ui>■ Fully Remote</ui><br/>
+    </ul>
+
+career-highlights:
+  title: Highlights
+  summary: >-
+    <div>
+      <p>■ Developed new technology for gaming and digital entertainment viewing that increases visual definition and enhances appearance of light and surface illumination, self shadowing, image sharpness and detail, visual perception of depth and distance without specialized eye-ware, color-tone richness and color vibrancy. </p>
+      <p>■ Developed custom technology which resulted in strategic partnership with major game studio to develop a game title based on their game IP. </p>
+      <p>■ Developed efficient productivity tools and optimized workflows, resulting in reduced production time and development costs, and earned me an MVP award from the company president. </p>
+      <p>■ Saved a AAA game title’s art production by resolving a critical art tool network issue that prevented the art team from connecting to in-company production servers from home during COVID-19.  </p>
+      <p>■ Improved the Technical Art Team’s in-house technical incident response times after implementing a real-time tool logging and error notification system. </p>
+      <p>■ Lead initiative to improve Technical Art Team’s code quality and code documentation, improving internal QA and coding professionalism. </p>
+    </div>
+    
+    
+    
+  
+ 
+    
+    
+   

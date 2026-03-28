@@ -1,0 +1,52 @@
+{% assign sidebar = site.data.sidebar_data.sidebar %}
+{% assign profile = site.data.personal_data.personal-profile %}
+
+<div class="sidebar-wrapper">
+    
+  {% if sidebar.enable_profile %}
+      <div class="profile-container">
+    
+        {% if profile.avatar %}
+        <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ profile.avatar }}" alt="profile picture" />
+        {% endif %}
+    
+        {% if profile.name %}
+        <h1 class="name">{{ profile.name }}</h1>
+        {% endif %}
+
+        {% if profile.location %}
+        <h4 class="location">{{ profile.location }}</h4>
+        {% endif %}
+    
+        {% if profile.tagline %}
+        <h3 class="tagline">{{ profile.tagline }}</h3>
+        {% endif %}
+    
+      </div><!--//profile-container-->
+  {% endif %}
+  
+  {% if sidebar.enable_contact %}
+    {% include contact-sidebar.html %}
+  {% endif %}
+
+
+  {% if sidebar.enable_education %}
+    {% include education-sidebar.html %}
+  {% endif %}
+  
+  
+  {% if sidebar.enable_languages %}
+    {% include language-sidebar.html %}
+  {% endif %}
+  
+  
+  {% if sidebar.enable_interests %}
+    {% include interests-sidebar.html %}
+  {% endif %}
+  
+
+  {% if sidebar.enable_about %}
+    {% include about.html %}
+  {% endif %}
+
+</div><!--//sidebar-wrapper-->

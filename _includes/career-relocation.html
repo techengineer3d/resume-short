@@ -1,0 +1,18 @@
+{% assign career-relocation = site.data.career_data.career-relocation %}
+
+{% if career-relocation %}
+<section class="section summary-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-globe-americas fa-stack-2x"></i>
+    </span>
+    {{ career-relocation.title }}
+  </h2>
+
+  <div class="summary">
+    {{ career-relocation.summary | markdownify }}
+  </div><!--//summary-->
+    
+</section><!--//section-->
+{% endif %}

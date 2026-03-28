@@ -1,0 +1,45 @@
+{% assign interests = site.data.personal_data.personal-interests %}
+{% assign mainpage = site.data.mainpage_data.mainpage %}
+
+{% if interests %}
+
+    {% if mainpage.enable_interests %}
+    <section class="section interests-section">
+    
+      <h2 class="section-title">
+        <span class="fa-stack fa-xs">
+          <i class="fas fa-circle fa-stack-2x"></i>
+          <i class="fas fa-user-plus fa-stack-1x fa-inverse"></i>
+        </span>
+        {{ interests.title }}
+      </h2>
+    
+      {% if interests.intro %}
+      <div class="intro">
+          <p>{{ interests.intro }}</p>
+      </div><!--//intro-->
+      {% endif %}
+    
+      {% for activity in interests.activity-list %}
+        <div class="item">
+    
+          <span class="activity-title">
+            {% if activity.link %}
+            <a href="{{ activity.link }}" target="_blank">{{ activity.title }}</a>
+            {% else %}
+            {{ activity.title }}
+            {% endif %}
+          </span>
+    
+          {% if activity.details %}
+          - <span class="activity-details">{{ activity.details }}</span>
+          {% endif %}
+    
+        </div><!--//item-->
+      {% endfor %}
+    
+    </section><!--//section-->
+    {% endif %}
+    
+{% endif %}
+

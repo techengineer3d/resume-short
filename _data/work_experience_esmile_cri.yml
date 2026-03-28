@@ -1,0 +1,32 @@
+cri:
+  role: Mobile Engineer
+  time: 2011/10/01 ~ 2012/10/28
+  company: <span translate="no"> CRI Middleware </span> (Contract)
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/cri/
+  company_url: https://www.cri-mw.co.jp/
+  details: >-
+
+   <div class="upper-row">
+         <p class="game-title">Project: <span translate="no"> Cloudia Mobile App </span> </p>
+        <div class="game-platform">Platforms: Mobile - iPad</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Cloud based document distribution app</div>
+        <div class="game-teamsize">Team Size: 30 members</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">Objective-C, XCode, MySQL</span>
+   </p>
+
+   <p><i><u>App Development</u></i></p>
+   <p>
+       <span class="bullet-point"> Implemented pdf document annotation and hilighting functionality</span>
+       <span class="bullet-point"> Maintenance of client side SQL database functions </span>
+       <span class="bullet-point"> Optimization of high volume PDF document streaming from server to client app</span>
+   </p>
+   
+   

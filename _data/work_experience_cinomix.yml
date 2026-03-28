@@ -1,0 +1,34 @@
+cinomix:
+  role: Game Programmer
+  time: 2000/04/01 ~ 2000/12/28
+  company: <span translate="no"> Cinomix </span> (Full-time)
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/cinomix/
+  company_url:
+  details: >-
+  
+   <div class="upper-row">
+        <p class="game-title">Project : Aquazone</p>
+        <div class="game-platform">Platforms: Mac</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">A fish tank simulation game</div>
+        <div class="game-teamsize">Team Size: 6 members </div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">C++, CodeWarrior, RezEdit</span>
+   </p>
+
+   <p><i><u>Development Work</u></i></p>
+   <p>
+       <span class="bullet-point"> Upgraded the game's graphics system from 16-bit to 32-bit</span>
+       <span class="bullet-point"> Performed general updates and maintenance of source code</span>
+   </p>
+   
+
+
+
+   

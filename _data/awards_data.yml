@@ -1,0 +1,13 @@
+awards:
+  - award: MVP
+    company: <span translate="no"> Crooz </span>
+    location: 'Tokyo, Japan'
+    time: 2015/10/09
+    details: >-
+      <p>In 2015, I created material animation technology and a suite of time-saving asset tools for a Unity mobile RPG game project.
+      I received an MVP award from the company President on October 9th 2015 for my contributions to the project that:</p>
+      <p>
+       <span class="bullet-point"> Increased productivity</span>
+       <span class="bullet-point"> Reduced manual workloads</span>
+       <span class="bullet-point"> Helped to cut spending costs</span>
+      </p>

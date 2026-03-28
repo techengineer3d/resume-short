@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+{% assign mainpage = site.data.mainpage_data.mainpage %}
+
+
+{% if mainpage.enable_career_profile %}
+  {% include career-profile.html %}
+{% endif %}
+
+{% if mainpage.enable_career_objective %}
+  {% include career-objective.html %}
+{% endif %}
+
+{% if mainpage.enable_career_relocation %}
+  {% include career-relocation.html %}
+{% endif %}
+
+{% if mainpage.enable_career_work_style %}
+  {% include career-work-style.html %}
+{% endif %}
+
+{% if mainpage.enable_education %}
+  {% include education.html %}
+{% endif %}
+
+{% if mainpage.enable_language %}
+  {% include language.html %}
+{% endif %}
+
+{% if mainpage.enable_interests %}
+  {% include interests.html %}
+{% endif %}
+
+{% if mainpage.enable_expertise %}
+  {% include expertise.html %}
+{% endif %}
+
+{% if mainpage.enable_career_highlights %}
+  {% include career-highlights.html %}
+{% endif %}
+
+{% if mainpage.enable_skills %}
+  {% include skills.html %}
+{% endif %}
+
+{% if mainpage.enable_awards %}
+  {% include awards.html %}
+{% endif %}
+
+{% if mainpage.enable_experiences %}
+  {% include experiences.html %}
+{% endif %}
+
+{% if mainpage.enable_projects %}
+  {% include projects.html %}
+{% endif %}
+
+{% if mainpage.enable_publications %}
+  {% include publications.html %}
+{% endif %}
+

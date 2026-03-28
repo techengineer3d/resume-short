@@ -1,0 +1,79 @@
+lecre:
+  role: Mobile App Engineer
+  time: 2012/11/01 ~ 2013/04/28
+  company: <span translate="no"> Lecre </span> (Contract)
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/lucre/
+  company_url: https://lecre.jp/
+  details: >-
+   
+   <div class="upper-row">
+         <p class="game-title">Project: <span translate="no"> QR Code Scanner </span> </p>
+        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Rapid prototyping of a QR code scanning app</div>
+        <div class="game-teamsize">Team Size: 5 members </div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">Objective-C, XCode, iOS SDK, JAVA, Eclipse, Android SDK</span>
+   </p>
+
+   <p><i><u>App Development</u></i></p>
+   <p>
+       <span class="bullet-point"> Created the GUI for the app</span>
+       <span class="bullet-point"> Implemented the QR scanner with a QR scan library</span>
+       <span class="bullet-point"> Tested scanning QR codes with mobile camera from various distances</span>
+   </p>
+
+
+   <div class="upper-row">
+         <p class="game-title">Project: <span translate="no"> Augmented Reality App </span> </p>
+        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Rapid prototyping of an AR app.</div>
+        <div class="game-teamsize">Team Size: 5 members </div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">XCode, iOS SDK, Unity 4</span>
+   </p>
+
+   <p><i><u>Unity Development</u></i></p>
+   <div>AR Work</div>
+   <p>
+       <span class="bullet-point"> Implemented the core AR functionality using Qualcomm's Vuforia</span>
+       <span class="bullet-point"> Tested scanning AR markers to display 3D models at marker location</span>
+   </p>
+
+
+   <div class="upper-row">
+         <p class="game-title">Project: <span translate="no"> Mobile Chat Application </span> </p>
+        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Rapid prototyping of a chat app.</div>
+        <div class="game-teamsize">Team Size: 5 members </div>
+        
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">Objective-C, XCode, iOS SDK, JAVA, Eclipse, Android SDK</span>
+   </p>
+
+   <p><i><u>Chat Client Development</u></i></p>
+   <p>
+       <span class="bullet-point"> Developed chat client application</span>
+       <span class="bullet-point"> Helped test and debug the chat client for iPhone and Android</span>
+   </p>
+
+   
+   

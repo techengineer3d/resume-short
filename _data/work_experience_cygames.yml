@@ -1,0 +1,70 @@
+cygames:
+  role: Technical Artist
+  time: 2017/09 ~ 2021/02
+  company: <span translate="no"> Cygames </span> (Contract)
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/cygames/
+  details: >-
+  
+   <div class="upper-row">
+        <p class="game-title"> <span translate="no"> Project Awakening - Arise</span> </p>
+        <div class="game-platform">Platforms: Playstation (PS4, PS5)</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">A third person action rpg game.</div>
+        <div class="game-teamsize">Team Size: 60</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-tech"><br/></div>
+        <div class="game-tech-list">Tech: Python, Maya, C++, Unreal Engine 4 </div>
+   </div><!--//upper-row-->
+
+   <h5>Summary</h5>
+   <p> 
+   Developed and maintained internal art tools, resolved tool technical issues, assisted with engineering on game titles, supported and improved art pipeline workflows.
+   </p>
+
+   <p><i><u>AAA Game Development</u></i></p>
+   <span class="bullet-point"> 
+   Assisted with game character hair shader development in Unreal Engine, and shader debugging on Playstation 4 console systems. 
+   </span>
+   <span class="bullet-point"> 
+   Corresponded with Epic Games technical staff to resolve a bug with their Flipboard sprites, required for the game's effects.
+   </span>
+   <span class="bullet-point"> 
+   Created Unreal Engine game map data exporter for migrating game maps to proprietary game engine.
+   </span>
+   <span class="bullet-point"> 
+   Improved, optimized and extended existing Maya art tools, created character pose management tool, added integrations for Perforce and Autodesk Shotgrid.
+   </span>
+   <span class="bullet-point"> 
+   Developed Maya tools for asset validation, asset production tracking and version management. 
+   </span>
+
+   <p><i><u>Unity Mobile Game Development</u></i></p>
+   <span class="bullet-point"> 
+   Assisted with development of Unity mobile game titles. 
+   </span>
+
+   <p><i><u>Graphics R&D</u></i></p>
+   <span class="bullet-point">
+   Researched and developed ambient occlusion techniques optimized for mobile devices. 
+   </span>
+
+   <p><i><u>Internal Operations</u></i></p>
+   <span class="bullet-point"> 
+    Improved internal quality assurance with implementation of a real-time tool usage logging system, enabling the TA team to quickly respond to technical issues, and determine which tools to deprecate or give development priority to. Researched and advised the TA team on coding styles, code analysis tools and technical documentation solutions for improving code quality and development operations. 
+   </span>
+
+   <p><i><u>Technical Incident Response</u></i></p>
+   <span class="bullet-point"> 
+   Resolved a critical technical issue during COVID-19 that affected artists ability to connect remotely from home to internal company servers from Maya and halted art production. 
+   This fix allowed the art team to resume art production work of a AAA game title from home. 
+   </span>
+
+   <p><i><u>Localization Work</u></i></p>
+   <p>
+       <span class="bullet-point"> Assisted with game localization work with game text proof reading, game text data entry and spoken dialogue review. </span>
+   </p>

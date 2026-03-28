@@ -1,0 +1,44 @@
+{% assign languages = site.data.language_data.languages %}
+{% assign sidebar = site.data.sidebar_data.sidebar %}
+{% assign mainpage = site.data.mainpage_data.mainpage %}
+
+{% if languages %}
+    
+    {% if mainpage.enable_language %}
+    
+    <section class="language-section section">
+
+        <h2 class="section-title">
+            <span class="fa-stack fa-xs">
+              <i class="fas fa-circle fa-stack-2x"></i>
+              <i class="fas fa-comment fa-stack-1x fa-inverse"></i>
+            </span>
+        {{ languages.title }}
+        </h2>
+
+        <div class="languageset">
+
+        {% for language in languages.spoken-languages %}
+        <div class="item">
+            
+            <h5 class="language-idom" style="text-align:left;float:left;">
+                {{ language.idiom }}
+            </h5>
+            
+            <h5 class="language-level" style="text-align:left;float:left;padding:5px;margin:5px;">
+               - {{ language.level }}
+            </h5>
+            
+            <hr style="visibility:hidden;clear:both;"/>
+    
+        </div><!--//item-->
+        {% endfor %}
+
+        </div>
+
+    </section><!--//language-section-->
+    
+    {% endif %}
+        
+    
+{% endif %}

@@ -1,0 +1,28 @@
+cavia:
+  role: Effects Programmer
+  time: 2009/07/01 ~ 2009/08/28
+  company: <span translate="no"> Cavia </span> (Contract)
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/cavia/
+  company_url: 
+  details: >-
+
+   <div class="upper-row">
+         <p class="game-title">Project: <span translate="no"> Nier Gestalt </span> </p>
+        <div class="game-platform">Platforms: Playstation 3</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Action role playing game</div>
+        <div class="game-teamsize">Team Size: 40 members</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">C++</span>
+   </p>
+
+   <p><i><u>Effects Development</u></i></p>
+   <p>
+       <span class="bullet-point"> Created trail effects using math splines and procedural geometry</span>
+   </p>

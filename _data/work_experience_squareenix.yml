@@ -1,0 +1,60 @@
+squareenix:
+  role: Workflow / Tools Programmer
+  time: 2021/06 ~ 2024/06
+  company: <span translate="no"> Square Enix </span> (Contract)
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/squareenix/
+  details: >-
+  
+   <div class="upper-row">
+        <p class="game-title">Advanced Technology Department</p>
+        <div class="game-platform">Platforms: PC, Mobile</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Workflow Unit </div>
+        <div class="game-teamsize">Team Size: 11</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-tech"><br/></div>
+        <div class="game-tech-list">Tech: Python, C++, Maya, Unreal Engine 5 </div>
+   </div><!--//upper-row-->
+
+   <h5>Summary</h5>
+   <p> 
+   Developed and maintained internal production tools and libraries, assisted in engineering internal technical projects and game titles, contributed to technical research and improving internal operations.
+   </p>
+
+   <p><i><u>Facial Animation Tools</u></i></p>
+   <span class="bullet-point"> 
+    Worked directly with workflow team lead and contributed to extending capabilities of internal facial animation technology tools and libraries. 
+    Provided artists with new features and engineers with new debugging tools for Luminous Engine and Unreal Engine. 
+    Served as engineer on AI & ARTS Alchemy project utilizing the in-house facial animation solution, acquired feedback and improved tool quality and features. 
+    Placed in charge of writing internal tool user documentation in English and Japanese. 
+   </span>
+
+   <p><i><u>Maya Tools</u></i></p>
+   <span class="bullet-point"> 
+   Upgraded internal Maya tool source code from Python 2 to Python 3, ensuring artists could continue their work and benefit from new features in the latest version of Maya.
+   </span>
+
+   <p><i><u>Game Programming</u></i></p>  
+   <span class="bullet-point"> 
+   Volunteered as support engineer to work on Unreal Engine mobile game development title requiring more manpower, and helped to implement planned features and keep project on schedule.
+   </span>
+
+   <p><i><u>Info Research</u></i></p>  
+   <span class="bullet-point"> 
+   Conducted daily technical research and supplied ATD engineers and artists with valuable info and resources for development and innovation. 
+   </span>
+
+   <p><i><u>Company Engagement</u></i></p>
+   <span class="bullet-point">   
+   Participated in yearly internal company wide team reviews of accomplished work, providing insight into development successes and failures.  
+   </span>
+   <span class="bullet-point"> 
+   Engaged with management and submitted various proposals for improving internal operations and communication with employees.  
+   </span>
+   
+ 

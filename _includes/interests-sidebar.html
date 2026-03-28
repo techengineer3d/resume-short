@@ -1,0 +1,40 @@
+{% assign interests = site.data.personal_data.personal-interests %}
+{% assign sidebar = site.data.sidebar_data.sidebar %}
+
+{% if interests %}
+
+    {% if sidebar.enable_interests %}
+    <div class="interests-container container-block">
+    
+      <h2 class="container-block-title">
+        Interests
+      </h2>
+    
+      <ul class="list-unstyled interests-list">
+        {% for interest in interests.activity-list %}
+    
+          {% if interest.link %}
+          <li><a href="{{ interest.link }}">{{ interest.title }}</a></li>
+          {% else %}
+          <li>{{ interest.title }}</li>
+          {% endif %}
+          
+          <!--
+          {% if interest.desc %}
+          <li>{{% interest.desc %}}</li>
+          {% endif %}
+          -->
+          {% if interest.details %}
+          <div class="details">
+          {{ interest.details | markdownify }}
+          </div><!--//details-->
+          {% endif %}
+    
+        {% endfor %}
+      </ul>
+    
+    </div><!--//interests-->
+    {% endif %}
+    
+{% endif %}
+

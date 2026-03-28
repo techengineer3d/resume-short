@@ -1,0 +1,18 @@
+{% assign career-objective = site.data.career_data.career-objective %}
+
+{% if career-objective %}
+<section class="section summary-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-bullseye fa-stack-2x"></i>
+    </span>
+    {{ career-objective.title }}
+  </h2>
+
+  <div class="summary">
+    {{ career-objective.summary | markdownify }}
+  </div><!--//summary-->
+    
+</section><!--//section-->
+{% endif %}

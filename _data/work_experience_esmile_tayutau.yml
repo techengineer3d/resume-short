@@ -1,0 +1,32 @@
+tayutau:
+  role: Unity Developer
+  time: 2013/10 ~ 2013/11
+  company: <span translate="no"> Tayutau </span> (Contract)
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/tayutau/
+  company_url: https://tayutau.co.jp/
+  details: >-
+   
+   <div class="upper-row">
+         <p class="game-title">Project: <span translate="no"> Final Fantasy Agito </span> </p>
+        <div class="game-platform">Platforms: Mobile iPhone / Android</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">A Final Fantasy series rpg game</div>
+        <div class="game-teamsize">Team Size: 30 members</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">C++, Objective-C++, JAVA, Android NDK, Unity 4</span>
+   </p>
+
+   <p><i><u>Unity Plugin Development</u></i></p>
+   <p>
+       Developed a plugin for Silicon Studio's Motion Portrait to animate character faces:
+       <span class="bullet-point"> Implemented the graphics rendering source code for iPhone and Android platforms</span>
+       <span class="bullet-point"> Built the Motion Portrait binary for iPhone and Android (NDK)</span>
+       <span class="bullet-point"> Created a Unity plugin to use the Motion Portrait binary</span>
+   </p>
+   

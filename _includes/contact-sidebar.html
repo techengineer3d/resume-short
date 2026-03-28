@@ -1,0 +1,93 @@
+{% assign contact = site.data.personal_data.personal-contact %}
+
+<div class="contact-container container-block">
+  <ul class="list-unstyled contact-list">
+
+    {% if contact.email %}
+    <li class="email"><i class="fas fa-envelope"></i> Email<br/>
+      <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
+    </li>
+    {% endif %}
+
+    {% comment %}
+    {% if contact.resume %}
+    <li class="resume"><i class="fas fa-address-card"></i> Full Resume<br/>
+      <a href="http://{{ contact.resume }}" target="_blank">{{ contact.resume }}</a>
+    </li>
+    {% endif %}
+    {% endcomment %}
+
+    {% if contact.phone %}
+    <li class="phone"><i class="fas fa-phone"></i> Phone<br/>
+      <a href="tel:{{ contact.phone }}">{{ contact.phone }}</a>
+    </li>
+    {% endif %}
+
+    {% if contact.website %}
+    <li class="website"><i class="fas fa-globe-americas"></i> Web<br/>
+      <a href="http://{{ contact.website }}" target="_blank">{{ contact.website }}</a>
+    </li>
+    {% endif %}
+
+    {% if contact.portfolio %}
+    <li class="website"><i class="fas fa-book-open"></i> Portfolio<br/>
+      <a href="http://{{ contact.portfolio }}" target="_blank">{{ contact.portfolio }}</a>
+    </li>
+    {% endif %}
+
+    {% if contact.linkedin %}
+    <li class="linkedin"><i class="fab fa-linkedin"></i> LinkedIn<br/>
+      <a href="https://linkedin.com/in/{{ contact.linkedin }}" target="_blank">{{ contact.linkedin }}</a>
+    </li>
+    {% endif %}
+
+    {% if contact.github %}
+    <li class="github"><i class="fab fa-github"></i> Github<br/>
+      <a href="http://github.com/{{ contact.github }}" target="_blank">{{ contact.github }}</a>
+    </li>
+    {% endif %}
+
+    {% if contact.gitlab %}
+    <li class="gitlab"><i class="fab fa-gitlab"></i> Gitlab<br/>
+      <a href="http://gitlab.com/{{ contact.gitlab }}" target="_blank">{{ contact.gitlab }}</a>
+    </li>
+    {% endif %}
+
+    {% if contact.bitbucket %}
+    <li class="bitbucket"><i class="fab fa-bitbucket"></i> Bitbucket<br/>
+      <a href="http://bitbucket.com/{{ contact.bitbucket }}" target="_blank">{{ contact.bitbucket }}</a>
+    </li>
+    {% endif %}
+
+    {% if contact.twitter %}
+    <li class="twitter"><i class="fab fa-twitter"></i> Twitter<br/>
+      <a href="https://twitter.com/{{ contact.twitter }}" target="_blank">https://twitter.com/{{ contact.twitter }}</a>
+    </li>
+    {% endif %}
+
+    {% if contact.youtube %}
+    <li class="youtube"><i class="fab fa-youtube"></i> Youtube<br/>
+      <a href="https://youtube.com/@{{ contact.youtube }}" target="_blank">https://youtube.com/@{{ contact.youtube }}</a>
+    </li>
+    {% endif %}
+
+    {% if contact.stack-overflow %}
+    <li class="stack-overflow"><i class="fab fa-stack-overflow"></i> Stack-Overflow<br/>
+      <a href="https://stackoverflow.com/users/{{ contact.stack-overflow }}" target="_blank">{{ contact.stack-overflow }}</a>
+    </li>
+    {% endif %}
+
+    {% if contact.codewars %}
+    <li class="codewars"><i class="fas fa-code"></i> CodeWars<br/>
+      <a href="https://www.codewars.com/users/{{ contact.codewars }}/completed_solutions" target="_blank">{{ contact.codewars }}</a>
+    </li>
+    {% endif %}
+
+    {% if contact.goodreads %}
+    <li class="goodreads-g"><i class="fab fa-goodreads-g"></i> Good Reads<br/>
+      <a href="https://www.goodreads.com/user/show/{{ contact.goodreads }}" target="_blank">{{ contact.goodreads }}</a>
+    </li>
+    {% endif %}
+
+  </ul>
+</div><!--//contact-container-->

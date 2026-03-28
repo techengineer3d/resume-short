@@ -1,0 +1,68 @@
+personal-profile:
+  name: Bret Cowart
+  tagline: Experienced </br> Game Developer
+  location:
+  avatar:
+  
+personal-contact:
+  email: techengineer3d@pm.me
+  phone:
+  website:
+  portfolio: techengineer3d.github.io/portfolio
+  resume: techengineer3d.github.io/resume
+  linkedin:
+  github: 
+  gitlab:
+  bitbucket:
+  twitter: 
+  youtube: rebrightfx
+  stack-overflow:
+  codewars:
+  goodreads:
+
+personal-interests:
+    title: Activities & Interests
+    intro: >-
+        The following are some of my interests:
+    activity-list:
+    - title: Games:<br/> <span> Action, Fighting, RTS, RPG</span>
+      link:
+      desc: 'Genres: RPG, Action, Fighting, Strategy'
+      details:
+        <!-- COMMENTED OUT
+        >-
+        <p> PC <br/>
+        <span class="bullet-point">Apex Legends</span>
+        <span class="bullet-point">Star Wars JEDI Fallen Order</span>
+        <span class="bullet-point">Star Wars Squadrons</span>
+        <span class="bullet-point">Star Wars Battlefront II</span>
+        <span class="bullet-point">Assassin's Creed Odyssey</span>
+        <span class="bullet-point">Rise of the Tomb Raider</span>
+        <span class="bullet-point">Shadow of the Tomb Raider</span>
+        <span class="bullet-point">MechWarrior Online Legends</span>
+        
+        <br/> Mobile <br/>
+        <span class="bullet-point">Apex Legends Mobile</span>
+        <span class="bullet-point">Command & Conquer Rivals</span>
+        <span class="bullet-point">Lara Croft Go</span>
+        <span class="bullet-point">Ghost Trick</span>
+        <span class="bullet-point">War Robots</span>
+        </p>
+        -->
+    - title: Technology:<br/> <span>3D Graphics, AI</span>
+      link:
+      desc: 'PC Tech, 3D Graphics, Programming, AI and Machine Learning'
+      details:
+        <!-- COMMENTED OUT
+        >-
+        <p>
+        <span class="bullet-point">PC Hardware</span>
+        <span class="bullet-point">3D Graphics</span>
+        <span class="bullet-point">AI / Machine Learning</span>
+        </p>
+        -->
+    - title: Movies:<br/> <span>Action, SF, Fantasy</span>
+      link:
+      desc: 'PC Tech, 3D Graphics, Programming, AI and Machine Learning'
+      details:
+

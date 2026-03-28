@@ -1,0 +1,27 @@
+expertise: 
+  title: "Areas of Expertise"
+  areas:
+    - RD: 
+      title: "Technical R&D"
+    - Graphics: 
+      title: "3D Graphics & Shaders"
+    - Engines: 
+      title: "Game Engine Programming"
+    - Performance:
+      title: "Performance Profiling"
+    - Tools: 
+      title: "Tools & Workflow"
+    - ArtPipeline: 
+      title: "Art Pipeline Improvement"
+    - Assets: 
+      title: "Asset Management"
+    - QA: 
+      title: "Quality Assurance"
+    - Documentation: 
+      title: "Documentation"
+    - Team: 
+      title: "Team Support & Communication"
+    
+    
+    
+    
